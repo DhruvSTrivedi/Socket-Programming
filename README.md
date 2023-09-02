@@ -1,6 +1,6 @@
 ---
 
-Computer Networks: Introductory Socket Programming
+Computer Networks: Socket Programming
 Author: Dhruv Trivedi
 Course: CS 436 - Networks and Distributed Computer Systems
 Instructor: Noura Limam
