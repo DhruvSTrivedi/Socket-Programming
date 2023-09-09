@@ -67,7 +67,7 @@ The program has been successfully tested on the following machines:
 ---
 
 ## Screenshots
-![Client](https://github.com/DhruvSTrivedi/Computer-Networks-Introductory-Socket-Programming/assets/143839140/7abf5a4f-528f-44b8-a5a0-2c4b02ad2e26)
-![Server](https://github.com/DhruvSTrivedi/Computer-Networks-Introductory-Socket-Programming/assets/143839140/5cbff5fc-ed83-4c25-b081-20f4466e32bc)
+![Client](Client.png)
+![Server]()
 
 ---
