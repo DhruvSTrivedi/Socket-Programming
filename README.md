@@ -68,6 +68,6 @@ The program has been successfully tested on the following machines:
 
 ## Screenshots
 ![Client](Client.png)
-![Server]()
+![Server](Server.png)
 
 ---
